@@ -85,8 +85,8 @@ _Developed as a group project together with other developers_
      REST Client is a simplified version of Postman — a powerful platform for working with and developing APIs. The application supports selecting HTTP methods, specifying URLs, request bodies, and headers. It also includes authentication and authorization to restrict access to registered users, as well as a history section that allows viewing and reusing previously executed requests.<br/>
       <b>Stack:</b><br/>
       React, Next.js (App Router),TypeScript, HTML, SCSS, Prettier, ESLint, Vitest, Yup, Firebase, MaterialUI, MSW, React Testing Library, Husky, Vercel<br/>
-      <a href="https://rest-client-app-updp.vercel.app/en"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/REST-Client"><b>Repository</b></a>
+      <a href="https://rest-client-app-updp.vercel.app/en" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/REST-Client" target="_blank"><b>Repository</b></a>
     </td>
   </tr>
 </table>
@@ -104,8 +104,8 @@ _Developed as a group project together with other developers_
      Year selection, regional filtering, country search, and sorting are supported. React.memo, useMemo, and useCallback are used to optimize performance, ensuring a fast and responsive interface.<br/>
       <b>Stack:</b><br/>
       React, TypeScript, HTML5, SCSS, Redux Toolkit, React Router, React Portal, Vite, Vitest, MSW, React Testing Library, ESLint, Prettier, Husky, Lint-Staged, Netlify<br/>
-      <a href="https://react-performance2025-1010.netlify.app/"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/ReactQ32025/tree/performance"><b>Repository</b></a>
+      <a href="https://react-performance2025-1010.netlify.app/" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/ReactQ32025/tree/performance" target="_blank"><b>Repository</b></a>
     </td>
   </tr>
 </table>
@@ -122,8 +122,8 @@ _Developed as a group project together with other developers_
      The app allows users to fill out two forms—controlled and uncontrolled. Data collection, image upload, and field validation are all implemented. Once submitted, the form data is displayed in the corresponding section as a card.<br/>
       <b>Stack:</b><br/>
      React, TypeScript, HTML5, SCSS, Redux Toolkit, React Router, React Portal, Vite, Vitest, MSW, React Testing Library, ESLint, Prettier, Husky, Lint-Staged, Netlify<br/>
-      <a href="https://react2025-forms10.netlify.app/"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/ReactQ32025/tree/forms"><b>Repository</b></a>
+      <a href="https://react2025-forms10.netlify.app/" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/ReactQ32025/tree/forms" target="_blank"><b>Repository</b></a>
     </td>
   </tr>
 </table>
@@ -140,8 +140,8 @@ _Developed as a group project together with other developers_
    This Rick and Morty-style web app loads character cards from an external API and offers interactive name search, pagination, theme changes, and routing, including an "About Me" page. By clicking on a card, users can view detailed information about the character. Multiple characters can be selected and downloaded as a CSV file. The app also includes a button to clear cached API responses.<br/>
       <b>Stack:</b><br/>
      React, TypeScript, HTML5, SCSS, Redux Toolkit, RTK Query, React Router, Vite, Vitest, MSW, React Testing Library, ESLint, Prettier, Husky, Lint-Staged, Netlify<br/>
-      <a href="https://react-class-components1010.netlify.app"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/ReactQ32025/tree/api-queries"><b>Repository</b></a>
+      <a href="https://react-class-components1010.netlify.app" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/ReactQ32025/tree/api-queries" target="_blank"><b>Repository</b></a>
     </td>
   </tr>
 </table>
@@ -161,8 +161,8 @@ Option List – allows users to create, edit, save, and load option lists, as we
 Decision Picker – visualizes the list, randomly selects an option based on weights, displays the result, and lets users return to the list.<br/>
       <b>Stack:</b><br/>
      TypeScript, HTML, SCSS, Canvas API, File API, Web Storage API, requestAnimationFrame, Hash Router, Prettier, ESLint, StyleLint, Vite<br/>
-      <a href="https://decision-making-tool-sher.netlify.app/"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/decision-making-tool"><b>Repository</b></a>
+      <a href="https://decision-making-tool-sher.netlify.app/" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/decision-making-tool" target="_blank"><b>Repository</b></a>
     </td>
   </tr>
 </table>
@@ -180,8 +180,8 @@ Decision Picker – visualizes the list, randomly selects an option based on wei
       The project features multiple layouts and difficulty levels, a leaderboard, solution preview, random puzzle selection, game saving and resuming options, as well as customizable themes and sound settings.<br/>
       <b>Stack:</b><br/>
       JavaScript, HTML, SCSS, ESLint, Prettier, Webpack<br/>
-      <a href="https://nonograms-sher.netlify.app/" target="_blank" rel="noopener noreferrer"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/nonograms" target="_blank" rel="noopener noreferrer"><b>Repository</b></a>
+      <a href="https://nonograms-sher.netlify.app/" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/nonograms" target="_blank"><b>Repository</b></a>
     </td>
 
   </tr>
@@ -199,8 +199,8 @@ Decision Picker – visualizes the list, randomly selects an option based on wei
      Website for a Christmas toy store<br/>
       <b>Stack:</b><br/>
       JavaScript, HTML5, SCSS, Webpack<br/>
-      <a href="https://christmas-shop-sher.netlify.app/" target="_blank" rel="noopener noreferrer"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/christmas-shop" target="_blank" rel="noopener noreferrer"><b>Repository</b></a>
+      <a href="https://christmas-shop-sher.netlify.app/" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/christmas-shop" target="_blank"><b>Repository</b></a>
     </td>
 
   </tr>
@@ -218,8 +218,8 @@ Decision Picker – visualizes the list, randomly selects an option based on wei
       Coffee shop website<br/>
       <b>Stack:</b><br/>
       JavaScript, HTML5, SCSS, Webpack<br/>
-      <a href="https://coffee-house-sher.netlify.app/" target="_blank" rel="noopener noreferrer"><b>Demo</b></a> |
-      <a href="https://github.com/KsushaSher/coffee-house" target="_blank" rel="noopener noreferrer"><b>Repository</b></a>
+      <a href="https://coffee-house-sher.netlify.app/" target="_blank"><b>Demo</b></a> |
+      <a href="https://github.com/KsushaSher/coffee-house" target="_blank"><b>Repository</b></a>
     </td>
 
   </tr>
