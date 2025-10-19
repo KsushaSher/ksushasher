@@ -5,6 +5,17 @@
 
 ---
 
+### Contacts:
+
+**Lacation:** Minsk, Belarus<br/>
+**Phone:** +375 29 105 09 59<br/>
+**Email:** sharshnevakseniya@gmail.com<br/>
+**Linkedin:** in/kseniya-sharsneva<br/>
+**Telegram:** @SharshnevaKseniya<br/>
+**My [CV](https://shar-cv.netlify.app/sharshneva-kseniya-cv.pdf)**<br/>
+
+---
+
 ### Tech Stack:
 
 Coding:
